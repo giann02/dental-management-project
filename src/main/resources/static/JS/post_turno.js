@@ -7,7 +7,7 @@ window.addEventListener('load', function () {
             paciente_id: document.querySelector('#paciente_turno').value
         };
         console.log(formData)
-        const url = '/turnos';
+        const url = '/api/v1/turnos';
         const settings = {
             method: 'POST',
             headers: {

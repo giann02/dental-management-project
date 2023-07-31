@@ -1,5 +1,5 @@
 function deleteBy(id){
-    const url='/turnos/eliminar/'+id;
+    const url='/api/v1/turnos/'+id;
     const settings={
         method:'DELETE'
     }

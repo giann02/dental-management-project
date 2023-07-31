@@ -40,7 +40,7 @@ public class PacienteService {
                 .nombre(paciente.getNombre())
                 .apellido(paciente.getApellido())
                 .dni(paciente.getDni())
-                .fechaIngreso(LocalDate.now())
+                .fechaIngreso(paciente.getFechaIngreso())
                 .email(paciente.getEmail())
                 .domicilio(paciente.getDomicilio())
                 .build();

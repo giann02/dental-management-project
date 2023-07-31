@@ -1,5 +1,5 @@
 function deleteBy(id){
-    const url='/pacientes/'+id;
+    const url='/api/v1/pacientes/'+id;
     const settings={
         method:'DELETE'
     }

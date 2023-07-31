@@ -21,7 +21,7 @@ window.addEventListener('load', function () {
 
         //invocamos utilizando la función fetch la API peliculas con el método PUT que modificará
         //la película que enviaremos en formato JSON
-        const url = '/turnos';
+        const url = '/api/v1/turnos';
         const settings = {
             method: 'PUT',
             headers: {
@@ -36,7 +36,7 @@ window.addEventListener('load', function () {
  })
 
 function findBy(id) {
-          const url = '/turnos'+"/"+id;
+          const url = '/api/v1/turnos'+"/"+id;
           const settings = {
               method: 'GET'
           }

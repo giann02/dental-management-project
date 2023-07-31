@@ -1,6 +1,6 @@
 window.addEventListener('load', function () {
     (function(){
-      const url = '/turnos';
+      const url = '/api/v1/turnos';
       const settings = {
         method: 'GET'
       }

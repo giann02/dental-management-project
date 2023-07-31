@@ -24,7 +24,7 @@ window.addEventListener('load', function () {
         };
         //invocamos utilizando la función fetch la API peliculas con el método POST que guardará
         //la película que enviaremos en formato JSON
-        const url = '/pacientes';
+        const url = '/api/v1/pacientes';
         const settings = {
             method: 'POST',
             headers: {
@@ -32,6 +32,7 @@ window.addEventListener('load', function () {
             },
             body: JSON.stringify(formData)
         }
+        console.log(formData)
 
         fetch(url, settings)
             .then(response => response.json())

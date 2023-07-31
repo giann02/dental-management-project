@@ -10,7 +10,6 @@ import java.util.HashSet;
 import java.util.Set;
 @Data
 @AllArgsConstructor
-
 @NoArgsConstructor
 @Builder
 public class OdontologoDTO {

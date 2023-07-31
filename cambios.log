@@ -774,3 +774,82 @@
 [2023-07-07 13:45:11] [ ERROR] [GlobalExceptions:22] Error el sistema detecto un problema, se registro el siguiente mensaje: The dentist already exists
 [2023-07-07 13:45:17] [ INFO ] [OdontologoService:31] Se inicio una operacion de guardado del odontologo con apellido Ranzo
 [2023-07-07 13:45:21] [ INFO ] [OdontologoService:72] Se inicio una operacion de listado de pacientes 
+[2023-07-07 16:12:01] [ INFO ] [OdontologoService:66] Se inicio una operacion de listado de odontologos 
+[2023-07-07 16:14:28] [ INFO ] [OdontologoService:66] Se inicio una operacion de listado de odontologos 
+[2023-07-07 16:14:37] [ INFO ] [OdontologoService:66] Se inicio una operacion de listado de odontologos 
+[2023-07-07 16:14:50] [ INFO ] [OdontologoService:66] Se inicio una operacion de listado de odontologos 
+[2023-07-07 16:17:17] [ INFO ] [OdontologoService:66] Se inicio una operacion de listado de odontologos 
+[2023-07-07 16:17:26] [ INFO ] [OdontologoService:66] Se inicio una operacion de listado de odontologos 
+[2023-07-07 16:19:23] [ INFO ] [OdontologoService:66] Se inicio una operacion de listado de odontologos 
+[2023-07-07 16:19:33] [ INFO ] [OdontologoService:66] Se inicio una operacion de listado de odontologos 
+[2023-07-07 16:19:41] [ INFO ] [OdontologoService:66] Se inicio una operacion de listado de odontologos 
+[2023-07-07 16:19:59] [ INFO ] [OdontologoService:66] Se inicio una operacion de listado de odontologos 
+[2023-07-07 16:22:54] [ INFO ] [OdontologoService:66] Se inicio una operacion de listado de odontologos 
+[2023-07-07 16:23:06] [ INFO ] [OdontologoService:66] Se inicio una operacion de listado de odontologos 
+[2023-07-07 16:24:12] [ INFO ] [OdontologoService:66] Se inicio una operacion de listado de odontologos 
+[2023-07-07 16:24:31] [ INFO ] [OdontologoService:28] Se inicio una operacion de guardado del odontologo con apellido Dando
+[2023-07-07 16:24:37] [ INFO ] [OdontologoService:66] Se inicio una operacion de listado de odontologos 
+[2023-07-07 16:25:38] [ INFO ] [OdontologoService:66] Se inicio una operacion de listado de odontologos 
+[2023-07-07 16:33:52] [ INFO ] [OdontologoService:28] Se inicio una operacion de guardado del odontologo con apellido Pani
+[2023-07-07 16:34:04] [ INFO ] [OdontologoService:28] Se inicio una operacion de guardado del odontologo con apellido ER
+[2023-07-07 16:34:12] [ INFO ] [OdontologoService:66] Se inicio una operacion de listado de odontologos 
+[2023-07-07 16:34:52] [ INFO ] [OdontologoService:66] Se inicio una operacion de listado de odontologos 
+[2023-07-07 16:35:02] [ INFO ] [OdontologoService:28] Se inicio una operacion de guardado del odontologo con apellido PAPPA
+[2023-07-07 16:35:02] [ ERROR] [GlobalExceptions:22] Error el sistema detecto un problema, se registro el siguiente mensaje: The dentist already exists
+[2023-07-07 16:35:05] [ INFO ] [OdontologoService:66] Se inicio una operacion de listado de odontologos 
+[2023-07-07 16:35:07] [ INFO ] [OdontologoService:66] Se inicio una operacion de listado de odontologos 
+[2023-07-07 16:35:47] [ INFO ] [OdontologoService:66] Se inicio una operacion de listado de odontologos 
+[2023-07-07 16:35:48] [ INFO ] [OdontologoService:60] Se inicio una operacion de busqueda de odontologo con ID 1
+[2023-07-07 16:35:54] [ INFO ] [OdontologoService:47] Se inicio una operacion de actualizado de odontologo con ID= 1
+[2023-07-07 16:35:54] [ INFO ] [OdontologoService:66] Se inicio una operacion de listado de odontologos 
+[2023-07-07 16:35:58] [ WARN ] [OdontologoService:79] Se realizo una operacion de eliminado de odontologo con id 1
+[2023-07-07 16:35:59] [ WARN ] [OdontologoService:79] Se realizo una operacion de eliminado de odontologo con id 2
+[2023-07-07 16:42:35] [ INFO ] [OdontologoService:31] Se inicio una operacion de guardado del odontologo con apellido ttt
+[2023-07-07 16:42:36] [ ERROR] [GlobalExceptions:22] Error el sistema detecto un problema, se registro el siguiente mensaje: The dentist already exists
+[2023-07-07 16:42:46] [ INFO ] [OdontologoService:72] Se inicio una operacion de listado de pacientes 
+[2023-07-07 16:43:22] [ INFO ] [OdontologoService:31] Se inicio una operacion de guardado del odontologo con apellido Panigatti
+[2023-07-07 16:43:22] [ ERROR] [GlobalExceptions:22] Error el sistema detecto un problema, se registro el siguiente mensaje: The dentist already exists
+[2023-07-07 16:46:46] [ INFO ] [OdontologoService:31] Se inicio una operacion de guardado del odontologo con apellido Panigatti
+[2023-07-07 16:46:46] [ ERROR] [GlobalExceptions:22] Error el sistema detecto un problema, se registro el siguiente mensaje: The dentist already exists
+[2023-07-07 16:47:22] [ INFO ] [OdontologoService:31] Se inicio una operacion de guardado del odontologo con apellido Ranzo
+[2023-07-07 16:47:22] [ ERROR] [GlobalExceptions:22] Error el sistema detecto un problema, se registro el siguiente mensaje: The dentist already exists
+[2023-07-07 16:47:46] [ INFO ] [OdontologoService:31] Se inicio una operacion de guardado del odontologo con apellido Panigatti
+[2023-07-07 16:48:20] [ INFO ] [OdontologoService:31] Se inicio una operacion de guardado del odontologo con apellido Panigatti
+[2023-07-07 16:48:35] [ INFO ] [OdontologoService:72] Se inicio una operacion de listado de pacientes 
+[2023-07-07 16:48:57] [ INFO ] [OdontologoService:31] Se inicio una operacion de guardado del odontologo con apellido Panigatti
+[2023-07-07 16:49:13] [ INFO ] [OdontologoService:72] Se inicio una operacion de listado de pacientes 
+[2023-07-07 16:49:24] [ WARN ] [OdontologoService:81] Se realizo una operacion de eliminado de odontologo con id 1
+[2023-07-07 16:49:25] [ WARN ] [OdontologoService:81] Se realizo una operacion de eliminado de odontologo con id 2
+[2023-07-07 16:49:26] [ INFO ] [OdontologoService:67] Se inicio una operacion de busqueda de pacientes con ID 3
+[2023-07-07 16:53:48] [ INFO ] [OdontologoService:60] Se inicio una operacion de busqueda de odontologo con ID 1
+[2023-07-07 16:53:53] [ INFO ] [OdontologoService:67] Se inicio una operacion de busqueda de pacientes con ID 1
+[2023-07-07 16:54:05] [ INFO ] [OdontologoService:37] Se inicio una operacion de guardado de turno con ID= null
+[2023-07-07 16:54:11] [ INFO ] [OdontologoService:88] Se inicio una operacion de listado de turnos 
+[2023-07-07 16:54:25] [ INFO ] [OdontologoService:37] Se inicio una operacion de guardado de turno con ID= null
+[2023-07-07 16:54:28] [ INFO ] [OdontologoService:88] Se inicio una operacion de listado de turnos 
+[2023-07-07 16:54:30] [ INFO ] [OdontologoService:76] Se inició una operación de búsqueda de turno con ID 7
+[2023-07-07 16:54:39] [ INFO ] [OdontologoService:63] Se inicio una operacion de actualizado de turno con ID= 7
+[2023-07-07 16:54:39] [ INFO ] [OdontologoService:88] Se inicio una operacion de listado de turnos 
+[2023-07-07 16:54:41] [ INFO ] [OdontologoService:76] Se inició una operación de búsqueda de turno con ID 7
+[2023-07-07 16:54:42] [ INFO ] [OdontologoService:76] Se inició una operación de búsqueda de turno con ID 7
+[2023-07-07 16:54:50] [ INFO ] [OdontologoService:63] Se inicio una operacion de actualizado de turno con ID= 7
+[2023-07-07 16:54:51] [ INFO ] [OdontologoService:88] Se inicio una operacion de listado de turnos 
+[2023-07-07 16:54:53] [ INFO ] [OdontologoService:76] Se inició una operación de búsqueda de turno con ID 7
+[2023-07-07 16:55:01] [ INFO ] [OdontologoService:63] Se inicio una operacion de actualizado de turno con ID= 7
+[2023-07-07 16:55:01] [ INFO ] [OdontologoService:88] Se inicio una operacion de listado de turnos 
+[2023-07-07 16:55:03] [ INFO ] [OdontologoService:76] Se inició una operación de búsqueda de turno con ID 7
+[2023-07-07 16:55:11] [ INFO ] [OdontologoService:76] Se inició una operación de búsqueda de turno con ID 2
+[2023-07-07 16:55:11] [ ERROR] [GlobalExceptions:17] Error el sistema detecto un problema, se registro el siguiente mensaje: The shift with id: 2 does not exist
+[2023-07-07 16:55:14] [ INFO ] [OdontologoService:88] Se inicio una operacion de listado de turnos 
+[2023-07-07 16:55:21] [ INFO ] [OdontologoService:76] Se inició una operación de búsqueda de turno con ID 1
+[2023-07-07 16:55:21] [ ERROR] [GlobalExceptions:17] Error el sistema detecto un problema, se registro el siguiente mensaje: The shift with id: 1 does not exist
+[2023-07-07 16:55:24] [ INFO ] [OdontologoService:76] Se inició una operación de búsqueda de turno con ID 5
+[2023-07-07 16:55:35] [ INFO ] [OdontologoService:63] Se inicio una operacion de actualizado de turno con ID= 5
+[2023-07-07 16:55:41] [ INFO ] [OdontologoService:60] Se inicio una operacion de busqueda de odontologo con ID 2
+[2023-07-07 16:55:41] [ ERROR] [GlobalExceptions:17] Error el sistema detecto un problema, se registro el siguiente mensaje: Dentist with ID:2 does not exist)
+[2023-07-07 16:55:43] [ INFO ] [OdontologoService:60] Se inicio una operacion de busqueda de odontologo con ID 3
+[2023-07-07 16:55:57] [ INFO ] [OdontologoService:63] Se inicio una operacion de actualizado de turno con ID= 5
+[2023-07-07 16:56:03] [ INFO ] [OdontologoService:63] Se inicio una operacion de actualizado de turno con ID= 7
+[2023-07-07 16:56:03] [ INFO ] [OdontologoService:88] Se inicio una operacion de listado de turnos 
+[2023-07-31 14:24:19] [ INFO ] [OdontologoService:88] Se inicio una operacion de listado de turnos 
+[2023-07-31 14:24:19] [ ERROR] [GlobalExceptions:17] Error el sistema detecto un problema, se registro el siguiente mensaje: The list of shifts is empty
